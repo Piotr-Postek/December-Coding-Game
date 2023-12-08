@@ -1112,6 +1112,42 @@
 			],
 			"type" : "STATIC",
 			"value" : "/Users/piotrpostek/Desktop/December Coding Game/day 1"
+		},
+		{
+			"name" : "day_2_BINARY_DIR",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Value Computed by CMake"
+				}
+			],
+			"type" : "STATIC",
+			"value" : "/Users/piotrpostek/Desktop/December Coding Game/day 1/cmake-build-debug"
+		},
+		{
+			"name" : "day_2_IS_TOP_LEVEL",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Value Computed by CMake"
+				}
+			],
+			"type" : "STATIC",
+			"value" : "ON"
+		},
+		{
+			"name" : "day_2_SOURCE_DIR",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Value Computed by CMake"
+				}
+			],
+			"type" : "STATIC",
+			"value" : "/Users/piotrpostek/Desktop/December Coding Game/day 1"
 		}
 	],
 	"kind" : "cache",

@@ -1,3 +1,12 @@
+/*
+    This program have to exclude number written by letters and change it to int form.
+    You need to find first and number written by letters, and connect them to one number.
+
+    eg. one12two7th6three -> 13
+        1hjksdfour        -> 14
+        adhbjonekjad      -> 11
+*/
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <ctype.h>

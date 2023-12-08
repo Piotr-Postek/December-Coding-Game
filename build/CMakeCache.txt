@@ -142,7 +142,7 @@ CMAKE_PROJECT_DESCRIPTION:STATIC=
 CMAKE_PROJECT_HOMEPAGE_URL:STATIC=
 
 //Value Computed by CMake
-CMAKE_PROJECT_NAME:STATIC=day_1
+CMAKE_PROJECT_NAME:STATIC=day_2
 
 //Path to a program.
 CMAKE_RANLIB:FILEPATH=/usr/bin/ranlib
@@ -214,6 +214,15 @@ day_1_IS_TOP_LEVEL:STATIC=ON
 
 //Value Computed by CMake
 day_1_SOURCE_DIR:STATIC=/Users/piotrpostek/Desktop/December Coding Game/day 1
+
+//Value Computed by CMake
+day_2_BINARY_DIR:STATIC=/Users/piotrpostek/Desktop/December Coding Game/build
+
+//Value Computed by CMake
+day_2_IS_TOP_LEVEL:STATIC=ON
+
+//Value Computed by CMake
+day_2_SOURCE_DIR:STATIC=/Users/piotrpostek/Desktop/December Coding Game/day 1
 
 
 ########################
